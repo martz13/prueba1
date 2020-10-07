@@ -10,5 +10,8 @@ package semestre_cinco;
  * @author martz
  */
 public class Prueba1 {
-    
+    public static void main(String[] args) {
+        System.out.println("Mario");
+        System.out.println("Martínez");
+    }
 }
